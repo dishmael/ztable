@@ -5,6 +5,9 @@
 *.so
 *.dylib
 
+# Main folder - used for testing purposes
+main 
+
 # Test binary, built with `go test -c`
 *.test
 
